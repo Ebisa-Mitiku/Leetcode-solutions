@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -37,4 +38,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
