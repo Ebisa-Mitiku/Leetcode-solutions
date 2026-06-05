@@ -10,6 +10,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
