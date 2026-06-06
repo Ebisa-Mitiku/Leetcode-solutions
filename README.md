@@ -29,6 +29,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,10 +60,12 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
