@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -39,6 +40,7 @@
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Trie
@@ -67,6 +69,7 @@
 | [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Binary Search
