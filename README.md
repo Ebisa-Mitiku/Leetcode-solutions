@@ -39,6 +39,7 @@
 | [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -68,6 +69,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -84,6 +86,7 @@
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -103,10 +106,19 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
