@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -24,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
