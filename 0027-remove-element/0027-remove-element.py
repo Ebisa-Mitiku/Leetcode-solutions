@@ -1,14 +1,12 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
 
-        count=0
+        k=0
         for i in range(len(nums)):
-            if nums[i]==val:
-                count+=1
-                nums[i]=float("inf")
+            if nums[i]!=val:
+                nums[k]=nums[i]
+                k+=1
 
-        nums.sort()
-
-        return(len(nums)-count)
+        return(k)
 
         
