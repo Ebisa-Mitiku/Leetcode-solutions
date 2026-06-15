@@ -12,6 +12,8 @@ class Solution:
                     break
             if  f:
                 x+=fl[i]
+            else:
+                break
         return x
 
                     
