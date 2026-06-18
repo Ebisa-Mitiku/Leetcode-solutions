@@ -26,6 +26,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
