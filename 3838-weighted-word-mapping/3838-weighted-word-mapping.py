@@ -1,25 +1,18 @@
 class Solution:
     def mapWordWeights(self, words: List[str], weights: List[int]) -> str:
-        
-        x="abcdefghijklmnopqrstuvwxyz"
-        letter={}
-        for i,j in enumerate(x):
-            letter[j]=i
-
+        letter={ch:i for i,ch in enumerate("abcdefghijklmnopqrstuvwxyz")}
+    
         ans=""
         
-
         for word in words:
-            sum=0
-            for j in range(len(word)):
-                sum+=weights[letter[word[j]]]
+            total=0
+            for ch in word:
+                total+=weights[letter[ch]]
 
-            sum%=26
-            sum=25-sum
-            for key in letter:
-                if letter[key]==sum:
-                    ans+=key
-                    break
+            total%=26
+            total=25-total
+
+            ans+=chr((ord("a")+total))
 
         return(ans)
 
