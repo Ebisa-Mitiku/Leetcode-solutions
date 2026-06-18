@@ -1,9 +1,9 @@
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
-        degmin=int(30*(minutes)/5)
-        totalmin=((hour*60+minutes)/60)*30
-        if totalmin>360.0:
-            totalmin-=360.0
+        min_deg=6*minutes
+
+        hour_deg=( 30*hour+ 0.5* minutes)%360
+
+        ans=abs(hour_deg-min_deg)
         
-        ans=abs(degmin-totalmin)
         return (min(360-ans,ans))
