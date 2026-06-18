@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -148,6 +149,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
