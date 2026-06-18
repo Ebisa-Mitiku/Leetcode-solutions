@@ -55,6 +55,7 @@
 | [0012-integer-to-roman](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -206,4 +208,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
