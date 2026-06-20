@@ -27,6 +27,7 @@
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -174,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
