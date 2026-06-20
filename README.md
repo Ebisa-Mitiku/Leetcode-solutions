@@ -26,6 +26,7 @@
 | [1470-shuffle-the-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -149,6 +150,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
