@@ -33,6 +33,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -179,6 +180,7 @@
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Bit Manipulation
@@ -242,6 +244,7 @@
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
