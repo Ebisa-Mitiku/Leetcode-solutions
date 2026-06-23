@@ -95,6 +95,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
