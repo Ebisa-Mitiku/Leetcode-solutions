@@ -41,6 +41,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
@@ -127,6 +128,7 @@
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +186,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +250,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
