@@ -1,8 +1,11 @@
 class Solution:
     def toLowerCase(self, s: str) -> str:
-        word=list(s)
-        for i in range(len(word)):
-            if word[i].isupper():
-                word[i]=word[i].lower()
-        return "".join(word)
-        
+
+        ans=""
+        for i in s:
+            if 65<=ord(i)<=90:
+                ans+=chr(ord(i)+32)
+            else:
+                ans+=i
+        return ans
+       
