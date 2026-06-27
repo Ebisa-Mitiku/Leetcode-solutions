@@ -89,6 +89,7 @@
 | [0058-length-of-last-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0383-ransom-note](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -150,6 +151,7 @@
 | [0012-integer-to-roman](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
