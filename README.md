@@ -21,6 +21,7 @@
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
@@ -61,6 +62,7 @@
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -198,6 +200,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
