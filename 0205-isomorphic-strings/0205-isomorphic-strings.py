@@ -11,7 +11,6 @@ class Solution:
                 if dic[s[i]]!=t[i]:
                     return False
 
-        for i in range(len(t)):
             if t[i] not in dit:
                 dit[t[i]]=s[i]
             else:
