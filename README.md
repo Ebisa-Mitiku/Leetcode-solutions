@@ -36,6 +36,7 @@
 | [1672-richest-customer-wealth](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -209,6 +210,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -275,6 +277,7 @@
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
