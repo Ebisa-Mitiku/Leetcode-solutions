@@ -48,6 +48,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2418-sort-the-people](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -128,6 +129,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2418-sort-the-people](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -197,6 +199,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2418-sort-the-people](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -234,6 +237,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2418-sort-the-people](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
