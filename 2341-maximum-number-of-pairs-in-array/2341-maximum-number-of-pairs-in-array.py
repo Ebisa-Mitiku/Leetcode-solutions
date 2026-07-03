@@ -2,10 +2,7 @@ class Solution:
     def numberOfPairs(self, nums: List[int]) -> List[int]:
         count=Counter(nums)
 
-        pair=0
-
-        for key in count:
-            pair+=count[key]//2
+        pair=sum(freq//2 for freq in count.values())
 
         return [pair,len(nums)-2*pair]
         
