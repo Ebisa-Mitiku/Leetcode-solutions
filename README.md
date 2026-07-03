@@ -44,6 +44,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -191,6 +192,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -267,6 +269,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
