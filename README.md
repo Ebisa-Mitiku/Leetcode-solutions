@@ -35,6 +35,7 @@
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -189,6 +190,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -227,6 +229,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
