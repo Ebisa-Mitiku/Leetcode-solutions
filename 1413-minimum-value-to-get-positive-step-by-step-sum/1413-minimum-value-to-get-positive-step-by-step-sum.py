@@ -1,14 +1,16 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        start=0
-        l=[]
+        min_prefix=float("inf")
+        prefix_sum=0
+
 
         for i in range(len(nums)):
-            start+=nums[i]
-            l.append(start)
+            prefix_sum+=nums[i]
+            min_prefix=min(min_prefix,prefix_sum)
+            
         
-        if min(l)<0:
-            return -1*(min(l))+1
+        if min_prefix<0:
+            return -1*(min_prefix)+1
         return 1
 
         
