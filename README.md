@@ -56,6 +56,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
+| [2895-minimum-processing-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -243,6 +244,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2418-sort-the-people](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2895-minimum-processing-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
@@ -318,6 +320,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2895-minimum-processing-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
