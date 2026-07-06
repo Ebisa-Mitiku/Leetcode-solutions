@@ -83,6 +83,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -339,6 +340,7 @@
 | [0070-climbing-stairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
@@ -371,4 +373,12 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
