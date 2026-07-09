@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -74,6 +75,7 @@
 | [0012-integer-to-roman](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
@@ -366,6 +368,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
