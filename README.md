@@ -122,6 +122,7 @@
 | [0383-ransom-note](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -175,6 +176,7 @@
 | [0125-valid-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -347,6 +349,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0392-is-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
