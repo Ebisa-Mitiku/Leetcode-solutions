@@ -36,6 +36,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -216,6 +217,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -266,6 +268,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
