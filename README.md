@@ -54,6 +54,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -226,6 +227,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -273,6 +275,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2418-sort-the-people](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -321,6 +324,7 @@
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
