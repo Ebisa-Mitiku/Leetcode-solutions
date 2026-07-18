@@ -50,6 +50,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -97,6 +98,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -111,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
