@@ -34,6 +34,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -185,6 +186,7 @@
 | [0043-multiply-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -418,6 +420,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
