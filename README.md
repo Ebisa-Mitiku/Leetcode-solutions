@@ -148,6 +148,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0709-to-lower-case](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -187,6 +188,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
