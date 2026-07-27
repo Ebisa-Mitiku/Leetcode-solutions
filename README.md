@@ -41,6 +41,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
@@ -300,6 +301,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -374,6 +376,7 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
