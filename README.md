@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0500-keyboard-row](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
@@ -150,6 +151,7 @@
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0500-keyboard-row](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -240,6 +242,7 @@
 | [0409-longest-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0500-keyboard-row](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
