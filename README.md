@@ -32,6 +32,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1002-find-common-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1002-find-common-characters/) | Easy |
@@ -97,6 +98,7 @@
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
@@ -425,6 +427,7 @@
 | [0392-is-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -471,6 +474,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
