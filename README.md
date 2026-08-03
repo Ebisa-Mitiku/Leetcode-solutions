@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -198,6 +199,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0495-teemo-attacking](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
