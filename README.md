@@ -83,6 +83,7 @@
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
+| [3866-first-unique-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
+| [3866-first-unique-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
+| [3866-first-unique-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
