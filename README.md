@@ -175,6 +175,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
@@ -439,6 +440,7 @@
 | [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -454,6 +456,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
