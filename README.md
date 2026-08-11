@@ -23,6 +23,7 @@
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -254,6 +255,7 @@
 | [0409-longest-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -501,6 +503,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Combinatorics
@@ -511,5 +514,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
