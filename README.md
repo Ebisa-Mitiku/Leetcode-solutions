@@ -194,6 +194,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -296,6 +297,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
@@ -401,6 +403,7 @@
 | [2404-most-frequent-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
 ## Sliding Window
