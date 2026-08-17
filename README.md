@@ -36,6 +36,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0819-most-common-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0860-lemonade-change](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -442,6 +443,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
