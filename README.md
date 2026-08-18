@@ -85,6 +85,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -301,6 +302,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3866-first-unique-even-element/) | Easy |
