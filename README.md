@@ -120,6 +120,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -188,6 +189,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
