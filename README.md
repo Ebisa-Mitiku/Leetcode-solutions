@@ -90,6 +90,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -364,6 +365,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
@@ -464,6 +466,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
