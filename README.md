@@ -78,6 +78,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2895-minimum-processing-time/) | Medium |
@@ -517,6 +518,7 @@
 | [1534-count-good-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
