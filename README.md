@@ -65,6 +65,7 @@
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -330,6 +331,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
@@ -356,6 +358,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
