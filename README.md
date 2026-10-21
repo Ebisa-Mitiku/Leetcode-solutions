@@ -214,6 +214,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
