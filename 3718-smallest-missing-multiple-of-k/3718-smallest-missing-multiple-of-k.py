@@ -1,10 +1,10 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
-        current_prod=1
         nums=set(nums)
+        multiplier=1
         
-        while k*current_prod in nums:
-            current_prod+=1
+        while k*multiplier in nums:
+            multiplier+=1
     
-        return k*current_prod
+        return k*multiplier
 
