@@ -2,9 +2,13 @@ class Solution:
     def checkDivisibility(self, n: int) -> bool:
         digit_sum=0
         digit_product=1
-        n=str(n)
-        for digit in n:
-            digit_sum+=int(digit)
-            digit_product*=int(digit)
-        return int(n)%(digit_sum+digit_product)==0
+        num=n
+
+        while num>0:
+            digit=num%10
+            digit_sum+=digit
+            digit_product*=digit
+            num//=10
+        return n%(digit_product+digit_sum)==0
+       
         
