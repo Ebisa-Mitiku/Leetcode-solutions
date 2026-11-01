@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0495-teemo-attacking/) | Easy |
@@ -118,6 +119,7 @@
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
