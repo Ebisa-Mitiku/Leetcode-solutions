@@ -265,6 +265,7 @@
 | [0455-assign-cookies](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -590,4 +591,5 @@
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
