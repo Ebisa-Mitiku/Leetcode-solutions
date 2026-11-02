@@ -114,6 +114,7 @@
 | [0048-rotate-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0268-missing-number/) | Easy |
