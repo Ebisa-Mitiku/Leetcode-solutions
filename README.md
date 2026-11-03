@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -508,6 +509,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
