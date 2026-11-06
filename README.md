@@ -214,6 +214,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1528-shuffle-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -252,6 +253,7 @@
 | [0682-baseball-game](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -493,6 +495,7 @@
 | [0342-power-of-four](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
