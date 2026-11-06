@@ -1,10 +1,14 @@
 class Solution:
     def fib(self, n: int) -> int:
-        lst=[0,1]
 
-        for i in range(n-1):
-            i+=2
-            lst.append(lst[i-1]+lst[i-2])
+        def fibonacci(x):
+            if x==0 or x==1:
+                return x
+            
+            return fibonacci(x-1)+fibonacci(x-2)
+        
+        return fibonacci(n)
 
-        return(lst[n])
+
+
         
