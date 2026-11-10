@@ -1,7 +1,7 @@
 class Solution:
     def findRelativeRanks(self, score: list[int]) -> list[str]:
         final=sorted(score,reverse=True)
-        rank,ans,reward=1,[],{}
+        rank,reward=1,{}
 
         for num in final:
             if rank<=3:
@@ -15,10 +15,7 @@ class Solution:
                 reward[num]=str(rank)
             rank+=1
 
-        for player in score:
-            ans.append(reward[player])
-
-        return ans
-
+        return [reward[player] for player in score]
+    
         
         
