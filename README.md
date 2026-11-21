@@ -665,21 +665,25 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
