@@ -188,6 +188,7 @@
 | [0125-valid-palindrome](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -658,14 +659,17 @@
 | [0039-combination-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -674,4 +678,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
