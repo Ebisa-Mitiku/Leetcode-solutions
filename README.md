@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -301,6 +302,7 @@
 | [0012-integer-to-roman](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -663,6 +665,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
@@ -677,6 +680,11 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0257-binary-tree-paths/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
