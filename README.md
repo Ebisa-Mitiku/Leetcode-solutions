@@ -658,4 +658,20 @@
 | [0039-combination-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Ebisa-Mitiku/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
